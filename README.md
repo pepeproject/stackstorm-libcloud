@@ -55,6 +55,7 @@ The following actions are supported:
 * Stop a VM - `stop_vm`
 * Start a VM - `start_vm`
 * Destroy a VM - `destroy_vm`
+* Get a VM - `get_vm`
 
 ### Storage
 
