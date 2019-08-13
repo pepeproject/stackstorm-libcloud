@@ -1,5 +1,10 @@
 # Changelog
 
+# 0.4.3-1globo
+
+- Add get_vm function to retrieve VM information
+- Fix _get_node_for_id to retrieve node information
+
 # 0.4.3
 
 - Update pack so it also works with providers such as Vultr which only take a single credential
