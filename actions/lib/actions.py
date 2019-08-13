@@ -1,5 +1,7 @@
 try:
     import libcloud
+    import libcloud.security as sec
+    sec.VERIFY_SSL_CERT = False
     libcloud
 except ImportError:
     message = ('Missing "apache-libcloud", please install it using pip:\n'
