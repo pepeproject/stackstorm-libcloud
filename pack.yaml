@@ -1,6 +1,6 @@
 ---
-ref: libcloud
-name : libcloud
+ref: libcloud-globo
+name : libcloud-globo
 description : st2 content pack containing libcloud integrations
 keywords:
   - libcloud
