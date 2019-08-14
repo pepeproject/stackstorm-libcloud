@@ -15,7 +15,7 @@ class FieldLists(object):
     """
     The lists of fields we want to return for each class
     """
-    NODE = ['id', 'name', 'state', 'public_ips', 'private_ips', 'size', 'image']
+    NODE = ['id', 'name', 'state', 'public_ips', 'private_ips', 'size', 'image','nic']
     NODE_SIZE = ['id', 'name', 'ram', 'disk', 'bandwidth', 'price']
     NODE_IMAGE = ['id', 'name']
     LOCATION = ['id', 'name', 'country']

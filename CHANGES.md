@@ -4,6 +4,7 @@
 
 - Add get_vm function to retrieve VM information
 - Fix _get_node_for_id to retrieve node information
+- Expose nic node information
 
 # 0.4.3
 
