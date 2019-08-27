@@ -1,5 +1,9 @@
 # Changelog
 
+# 0.4.3-2globo
+
+- Rollback exposing nic node information
+
 # 0.4.3-1globo
 
 - Add get_vm function to retrieve VM information
